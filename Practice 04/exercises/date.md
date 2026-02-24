@@ -44,5 +44,4 @@ d2 = datetime(2024, 1, 10)
 print((d2 - d1).total_seconds())
 ```
 
-print((d2 - d1).total_seconds())
 ```
